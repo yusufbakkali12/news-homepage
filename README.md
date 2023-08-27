@@ -4,6 +4,6 @@ This project is solution for challenge named "News Homepage" from Frontend Mento
 
 This soution is using Tailwind CSS, best layout at 1920px.
 
-live page link: https://yusufbakkali12.github.io//FrontendMentorNewsHomepage/
+live page link: https://yusufbakkali12.github.io/news-homepage/
 
 
